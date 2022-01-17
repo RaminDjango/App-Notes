@@ -1,0 +1,104 @@
+body{
+    padding: 0;
+    margin: 0;
+    overflow-x:hidden;
+
+}
+.navbar {
+    background-color: aqua;
+    height: 129px;
+    padding: 45px;
+}
+h5 {
+    position: relative;
+    top: -14px;
+}
+
+.user {
+    
+    position: relative;
+    top: -410px;
+    font-size: 34px;
+}
+
+h3 {
+    position: relative;
+    top: -30px;
+    text-align: center;
+
+}
+.asa {
+    position: relative;
+    top: 401px;
+}
+.da {
+    position: relative;
+    top: -390px;
+    left: 90%;
+    
+
+}
+
+.laba {
+    position: relative;
+    font-size: 40%;
+    padding:40px ;
+    top: -169px;
+    text-align: center;
+
+}
+.scrie {
+    margin: 4px;
+    width: 955px;
+    height: 50px;
+    border-radius:  4px;
+    padding: 10px;
+}
+
+
+  
+li {
+    position: relative;
+    top: -150px;
+    left: 50px;
+    list-style: none;
+}
+a:hover {
+    color: red;
+}
+a {
+    position: relative;
+    top: -170px;
+    left: 1000px;
+    text-decoration: none ;
+    
+
+}
+.regist {
+    position: relative;
+    top: 500px;
+}
+
+.buton {
+    position: relative;
+    height: 40px;
+    padding: 1px;
+    border-radius: 4px;
+    font-size: 25px;
+    
+}
+.linkd {
+
+    position: relative;
+    top: -355px;
+    left: 390px;
+    font-size: 20px;
+}
+.linkd:hover {
+    color: rgb(0, 243, 105);
+}
+h6 {
+    position: relative;
+    top: 20px;
+
+}
