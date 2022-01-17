@@ -1,0 +1,18 @@
+
+<style>
+    a {
+        border: 1px solid black;
+        margin: 25px 50px;
+    }
+</style>
+
+{% block content %}
+    <h1>Create your account</h1>
+    <form method="POST">
+        {% csrf_token %}
+        {{form.as_p}}
+        <button>Register</button> <a  href="{% url 'login_url' %}">Login</a>
+
+    </form>
+
+{% endblock %}
